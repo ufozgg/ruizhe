@@ -4,5 +4,35 @@ title: 今晚吃什么
 ---
 
 <div id="home">
-	This is not a website for food! 中文测试
+	This may be a website for food! 中文测试
+<script type="text/javascript">
+function cli()
+{
+strs=document.getElementById("inp").value.split('\n');
+document.getElementById("res").value=strs[Math.floor(Math.random()*strs.length)]
+}
+</script>
+
+</br>
+<button type="button" onclick="cli()">今晚吃</button><input type="text" id="res" />
+</br>
+<textarea id="inp" rows="10">
+桃李馆子
+桃李二楼
+紫荆比萨
+紫荆二楼
+紫荆二楼
+紫荆二楼
+紫荆三楼
+紫荆三楼
+玉树二楼
+玉树馆子
+芝兰火锅
+万人一楼
+万人一楼
+万人一楼
+万人馆子
+清芬快餐
+清芬二楼</textarea>
+
 </div>
