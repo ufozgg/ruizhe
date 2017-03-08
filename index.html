@@ -12,10 +12,13 @@ strs=document.getElementById("inp").value.split('\n');
 document.getElementById("res").value=strs[Math.floor(Math.random()*strs.length)]
 }
 </script>
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<script src="css/jquery.min.js"></script>
+<script src="css/bootstrap.min.js"></script>
 
-</br>
-<button type="button" onclick="cli()">今晚吃</button><input type="text" id="res" />
-</br>
+<br/>
+<input type="button" onclick="cli()" value="今晚吃"/><input type="text" id="res" />
+<br/>
 <textarea id="inp" rows="10">
 桃李馆子
 桃李二楼
