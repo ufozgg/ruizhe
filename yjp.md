@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Jiping Yu (ÓÚ¼ÍÆ½)
+title: Jiping Yu (äºçºªå¹³)
 ---
 
 # Jiping Yu
@@ -17,10 +17,10 @@ yujp15@mails.tsinghua.edu.cn
 
 ## Problem-setting
 NOI official contests:
-* China Team Training 2015: "static cactus" (¾²Ì¬ÏÉÈËÕÆ)
+* China Team Training 2015: "static cactus" (é™æ€ä»™äººæŒ)
 * NOI2016
-* NOIP (NOI in Provinces) 2016-junior: magic (Ä§·¨Õó)
-* NOIP2016-senior: earthworm (òÇò¾)
-* China Team Training 2015: "magic program" (Ä§·¨Ğ¡³ÌĞò)
+* NOIP (NOI in Provinces) 2016-junior: magic (é­”æ³•é˜µ)
+* NOIP2016-senior: earthworm (èš¯èš“)
+* China Team Training 2015: "magic program" (é­”æ³•å°ç¨‹åº)
 Popular contest platforms:
 * 
