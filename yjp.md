@@ -28,5 +28,5 @@ Undergraduate student at Department of Computer Science and Technology, Tsinghua
 * [NOIP2016-senior: earthworm (蚯蚓)](http://uoj.ac/problem/264)
 * [China Team Training 2016: "magic program" (魔法小程序)](http://uoj.ac/problem/267)
 
-#### Popular contest platforms
+### Popular contest platforms
 * Codeforces Round #278 ([Div. 1](http://codeforces.com/contest/487), [Div. 2](http://codeforces.com/contest/488)): [Giga Tower](http://codeforces.com/contest/488/problem/A), [Candy Boxes](http://codeforces.com/contest/488/problem/B), [Fight the Monster](http://codeforces.com/contest/487/problem/A), [Conveyor Belts](http://codeforces.com/contest/487/problem/D)
