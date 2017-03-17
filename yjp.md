@@ -20,13 +20,19 @@ Undergraduate student at Department of Computer Science and Technology, Tsinghua
 
 ## Problem-setting
 
+I have participated in problem-setting in National Olympiad in Informatics (NOI) official contests, including NOI, NOIP (NOI in Provinces), China Team Training (CTT).
+
+I also prepared contests for Codeforces, Universal Online Judge (UOJ), and BestCoder.
+
 ### NOI official contests
 
-* [China Team Training 2015: "static cactus" (静态仙人掌)](http://uoj.ac/problem/158)
-* NOI2016
-* NOIP (NOI in Provinces) 2016-junior: magic (魔法阵)
-* [NOIP2016-senior: earthworm (蚯蚓)](http://uoj.ac/problem/264)
-* [China Team Training 2016: "magic program" (魔法小程序)](http://uoj.ac/problem/267)
+* CTT 2015: "static cactus" (静态仙人掌), [statements in Chinese](http://uoj.ac/problem/158)
+* NOI 2016
+* NOIP 2016 Junior: magic (魔法阵), [statements in Chinese](https://www.luogu.org/problem/show?pid=2119)
+* NOIP 2016 Senior: earthworm (蚯蚓), [statements in Chinese](http://uoj.ac/problem/264)
+* CTT 2016: "magic program" (魔法小程序), [statements in Chinese](http://uoj.ac/problem/267)
 
 ### Popular contest platforms
-* Codeforces Round #278 ([Div. 1](http://codeforces.com/contest/487), [Div. 2](http://codeforces.com/contest/488)): [Giga Tower](http://codeforces.com/contest/488/problem/A), [Candy Boxes](http://codeforces.com/contest/488/problem/B), [Fight the Monster](http://codeforces.com/contest/487/problem/A), [Conveyor Belts](http://codeforces.com/contest/487/problem/D)
+
+* Codeforces Round #278 ([Div. 1](http://codeforces.com/contest/487), [Div. 2](http://codeforces.com/contest/488)): Statements: [Div. 2 A](http://codeforces.com/contest/488/problem/A), [Div. 2 B](http://codeforces.com/contest/488/problem/B), [Div. 1 A](http://codeforces.com/contest/487/problem/A), [Div. 1 D](http://codeforces.com/contest/487/problem/D)
+* UOJ Round #7: tasksauthor (水题出题人), [statements in Chinese](http://uoj.ac/problem/83)
