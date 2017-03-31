@@ -1,0 +1,59 @@
+---
+layout: default
+title: 于纪平
+---
+
+# 于纪平（Jiping Yu）
+
+[English version](yjp_en.html)
+
+清华大学计算机系，本科生
+
+[yujp15@mails.tsinghua.edu.cn](mailto:yujp15@mails.tsinghua.edu.cn)
+
+## 教育
+
+* **2015 -**，清华大学计算机科学与技术系，本科生
+* **2012 - 2015**，大连市第二十四中学
+
+## 项目
+
+* [MIT 6.828 OS Engineering](https://pdos.csail.mit.edu/6.828/2016/)的实验： [[Git repo](https://github.com/saffahyjp/6.828)]
+* 在FPGA上实现了经典RISC流水线的16位处理器：[代码](https://github.com/saffahyjp/display/tree/master/cpu) -- 计算机组成原理课程
+* 用Column Generation算法实现的多点对的路径寻找算法 -- 面向对象程序设计基础课程
+
+## 获奖
+
+* **2016**，“清华之友——郑格如奖学金”
+* **2014**，第31届全国青少年信息学奥林匹克竞赛（NOI2014）一等奖（金牌）
+* **2013**，NOI2013一等奖（金牌）
+* **2016**，满分通过第9次CCF软件能力认证
+
+## 命题
+
+我参与过全国青少年信息学奥林匹克竞赛（NOI）系列官方比赛的命题，包括NOI，NOIP（省级联赛），中国国家队集训（CTT）。
+
+我也在Codeforces、Universal Online Judge（UOJ）、BestCoder等平台上出过题。
+
+### NOI官方比赛
+
+* CTT 2015：静态仙人掌，[题目](http://uoj.ac/problem/158)
+* NOI 2016
+* NOIP 2016 普及组：魔法阵，[题目](https://www.luogu.org/problem/show?pid=2119)
+* NOIP 2016 提高组：蚯蚓，[题目](http://uoj.ac/problem/264)
+* CTT 2016：魔法小程序，[题目](http://uoj.ac/problem/267)
+
+### 比赛平台
+
+* Codeforces Round #278（[Div. 1](http://codeforces.com/contest/487)，[Div. 2](http://codeforces.com/contest/488)），英文题目：[Div. 2 A](http://codeforces.com/contest/488/problem/A), [Div. 2 B](http://codeforces.com/contest/488/problem/B), [Div. 1 A](http://codeforces.com/contest/487/problem/A), [Div. 1 D](http://codeforces.com/contest/487/problem/D)
+* UOJ Round #7：水题出题人，[题目](http://uoj.ac/problem/83)
+* BestCoder Round #19：[英文题目](http://bestcoder.hdu.edu.cn/contests/contest_show.php?cid=551)
+
+## 其他
+
+* 熟悉C、C++
+* 了解Python、Java、MATLAB、LaTeX
+* 钢琴：业余十级（中央音乐学院）
+* 英语六级：508；四级：593
+
+*上次更新于2017年3月31日*
