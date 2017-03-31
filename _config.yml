@@ -1,1 +1,13 @@
-theme: jekyll-theme-tactile
+title: Researcher
+url: "http://jinwanchishen.me"
+# baseurl: "/"
+
+# markdown: kramdown
+
+tracking_id: #
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+# repository: "saffahyjp/jinwanchishen.me"
