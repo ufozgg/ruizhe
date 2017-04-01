@@ -18,9 +18,17 @@ title: 于纪平
 
 ## 项目
 
+**值得一提的**
+
 * [MIT 6.828 OS Engineering](https://pdos.csail.mit.edu/6.828/2016/)的实验： [[Git repo](https://github.com/saffahyjp/6.828)]
 * 在FPGA上实现了经典RISC流水线的16位处理器：[代码](https://github.com/saffahyjp/display/tree/master/cpu) -- 计算机组成原理课程
-* 用Column Generation算法实现的多点对的路径寻找算法 -- 面向对象程序设计基础课程
+
+**课程**
+
+* 用Column Generation算法实现的多点对的路径寻找算法：[代码](https://github.com/saffahyjp/display/tree/master/mulpath)和[扩展](https://github.com/saffahyjp/display/tree/master/mulpath_large) -- 面向对象程序设计基础课程
+* 桌面日历，用Qt C++实现，允许拖拽文件：[代码](https://github.com/saffahyjp/display/tree/master/calendar)
+* C/S结构的在线五子棋游戏，用Qt C++实现：[代码](https://github.com/saffahyjp/display/tree/master/gobang_net)
+* 清华新闻检索引擎，用Python（Django）实现：[代码](https://github.com/saffahyjp/display/tree/master/news_search)
 
 ## 获奖
 
@@ -35,7 +43,7 @@ title: 于纪平
 
 我也在Codeforces、Universal Online Judge（UOJ）、BestCoder等平台上出过题。
 
-### NOI官方比赛
+**NOI官方比赛**
 
 * CTT 2015：静态仙人掌，[题目](http://uoj.ac/problem/158)
 * NOI 2016
@@ -43,10 +51,10 @@ title: 于纪平
 * NOIP 2016 提高组：蚯蚓，[题目](http://uoj.ac/problem/264)
 * CTT 2016：魔法小程序，[题目](http://uoj.ac/problem/267)
 
-### 比赛平台
+**比赛平台**
 
 * Codeforces Round #278（[Div. 1](http://codeforces.com/contest/487)，[Div. 2](http://codeforces.com/contest/488)），英文题目：[Div. 2 A](http://codeforces.com/contest/488/problem/A), [Div. 2 B](http://codeforces.com/contest/488/problem/B), [Div. 1 A](http://codeforces.com/contest/487/problem/A), [Div. 1 D](http://codeforces.com/contest/487/problem/D)
-* UOJ Round #7：水题出题人，[题目](http://uoj.ac/problem/83)
+* UOJ Round #7：水题出题人，[题目](http://uoj.ac/problem/83)；Goodbye Jiawu：新年的桌游，[题目](http://uoj.ac/problem/68)；Goodbye Yiwei：我出的最好的一道贪心题，新年的腮雷，[题目](http://uoj.ac/problem/177)
 * BestCoder Round #19：[英文题目](http://bestcoder.hdu.edu.cn/contests/contest_show.php?cid=551)
 
 ## 其他
@@ -56,4 +64,4 @@ title: 于纪平
 * 钢琴：业余十级（中央音乐学院）
 * 英语六级：508；四级：593
 
-*上次更新于2017年3月31日*
+*上次更新于2017年4月2日*

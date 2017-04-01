@@ -18,9 +18,17 @@ Undergraduate, Department of Computer Science and Technology, Tsinghua Universit
 
 ## Projects
 
+**Noticable**
+
 * Lab of [MIT 6.828 OS Engineering](https://pdos.csail.mit.edu/6.828/2016/): [[Git repo](https://github.com/saffahyjp/6.828)]
-* A simple RISC pipeline 16-bit processer on FPGA: [Code](https://github.com/saffahyjp/display/tree/master/cpu) -- project for Computer Organization course
-* "Multiple-Terminal Path Finding by Column Generation Algorithm" -- project for fundamental OOP course
+* Simple RISC pipeline 16-bit processer on FPGA: [Code](https://github.com/saffahyjp/display/tree/master/cpu) -- project for Computer Organization course
+
+**For courses**
+
+* "Multiple-Terminal Path Finding by Column Generation Algorithm": [Code](https://github.com/saffahyjp/display/tree/master/mulpath) and [Extension](https://github.com/saffahyjp/display/tree/master/mulpath_large) -- project for fundamental OOP course
+* Desktop calendar supporting drag & drop, in Qt C++: [Code](https://github.com/saffahyjp/display/tree/master/calendar)
+* C/S Gobang game online, in Qt C++: [Code](https://github.com/saffahyjp/display/tree/master/gobang_net)
+* News searcher for Tsinghua, in Python with Django: [Code](https://github.com/saffahyjp/display/tree/master/news_search)
 
 ## Awards
 
@@ -35,7 +43,7 @@ I have participated in problem-setting in National Olympiad in Informatics (NOI)
 
 I also prepared contests for Codeforces, Universal Online Judge (UOJ), and BestCoder.
 
-### NOI official contests
+**NOI official contests**
 
 * CTT 2015: "static cactus", [Chinese statements](http://uoj.ac/problem/158)
 * NOI 2016
@@ -43,10 +51,10 @@ I also prepared contests for Codeforces, Universal Online Judge (UOJ), and BestC
 * NOIP 2016 Senior: earthworm, [Chinese statements](http://uoj.ac/problem/264)
 * CTT 2016: "magic program", [Chinese statements](http://uoj.ac/problem/267)
 
-### Popular contest platforms
+**Popular contest platforms**
 
 * Codeforces Round #278 ([Div. 1](http://codeforces.com/contest/487), [Div. 2](http://codeforces.com/contest/488)): statements: [Div. 2 A](http://codeforces.com/contest/488/problem/A), [Div. 2 B](http://codeforces.com/contest/488/problem/B), [Div. 1 A](http://codeforces.com/contest/487/problem/A), [Div. 1 D](http://codeforces.com/contest/487/problem/D)
-* UOJ Round #7: tasksauthor, [Chinese statements](http://uoj.ac/problem/83)
+* UOJ Round #7: tasksauthor, [Chinese statements](http://uoj.ac/problem/83); Goodbye Jiawu: "new year's board game", [Chinese statements](http://uoj.ac/problem/68); Goodbye Yiwei: the best greedy problem of mine, "new year's bomb", [Chinese statements](http://uoj.ac/problem/177)
 * BestCoder Round #19: [statements](http://bestcoder.hdu.edu.cn/contests/contest_show.php?cid=551)
 
 ## Others
@@ -56,4 +64,4 @@ I also prepared contests for Codeforces, Universal Online Judge (UOJ), and BestC
 * Piano: amateur level 10 (Central Conservatory of Music)
 * CET-6: 508; CET-4: 593
 
-*Last updated on March 31, 2017*
+*Last updated on April 2, 2017*
