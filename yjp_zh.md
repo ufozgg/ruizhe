@@ -50,6 +50,12 @@ title: 于纪平
 * NOIP 2016 普及组：魔法阵，[题目](https://www.luogu.org/problem/show?pid=2119)
 * NOIP 2016 提高组：蚯蚓，[题目](http://uoj.ac/problem/264)
 * CTT 2016：魔法小程序，[题目](http://uoj.ac/problem/267)
+* NOI 2017：蚯蚓排队，[题目](http://uoj.ac/problem/315)
+
+**其他比赛**
+
+* CCPC 2016合肥：最大公约数，[题目](http://acm.hdu.edu.cn/showproblem.php?pid=5970)
+* 2017六省省选：摧毁“树状图”：[题目](https://loj.ac/problem/2144)
 
 **比赛平台**
 
@@ -64,4 +70,4 @@ title: 于纪平
 * 钢琴：业余十级（中央音乐学院）
 * 英语六级：508；四级：593
 
-*上次更新于2017年4月2日*
+*上次更新于2017年8月3日*

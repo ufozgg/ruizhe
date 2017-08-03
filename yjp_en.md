@@ -50,6 +50,12 @@ I also prepared contests for Codeforces, Universal Online Judge (UOJ), and BestC
 * NOIP 2016 Junior: magic, [Chinese statements](https://www.luogu.org/problem/show?pid=2119)
 * NOIP 2016 Senior: earthworm, [Chinese statements](http://uoj.ac/problem/264)
 * CTT 2016: "magic program", [Chinese statements](http://uoj.ac/problem/267)
+* NOI 2017: queue, [Chinese statements](http://uoj.ac/problem/315)
+
+**Other contests**
+
+* CCPC 2016 Hefei: "great common divisor", [Chinese statements](http://acm.hdu.edu.cn/showproblem.php?pid=5970)
+* HE/HL/JL/LN/SH/SXOI 2017: treediagram, [Chinese statements](https://loj.ac/problem/2144)
 
 **Popular contest platforms**
 
@@ -64,4 +70,4 @@ I also prepared contests for Codeforces, Universal Online Judge (UOJ), and BestC
 * Piano: amateur level 10 (Central Conservatory of Music)
 * CET-6: 508; CET-4: 593
 
-*Last updated on April 2, 2017*
+*Last updated on August 3, 2017*
