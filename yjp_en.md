@@ -37,6 +37,11 @@ Undergraduate, Department of Computer Science and Technology, Tsinghua Universit
 * **2013**, First prize (gold medal) of 30-th NOI (NOI2013)
 * **2016**, 9th CCF Computer Software Certification -- pass with full marks
 
+**Other programming contests**
+
+* **2017**, 3rd place, CodeM programming contest, [Chinese website](http://codem.meituan.com/)
+* **2017**, 10th place, MegCup 2017, [Chinese website](https://2017.megcup.com/)
+
 ## Problem-setting
 
 I have participated in problem-setting in National Olympiad in Informatics (NOI) official contests, including NOI, NOIP (NOI in Provinces), China Team Training (CTT).
@@ -70,4 +75,4 @@ I also prepared contests for Codeforces, Universal Online Judge (UOJ), and BestC
 * Piano: amateur level 10 (Central Conservatory of Music)
 * CET-6: 508; CET-4: 593
 
-*Last updated on August 3, 2017*
+*Last updated on August 6, 2017*
