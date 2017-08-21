@@ -68,7 +68,6 @@ I also prepared contests for Codeforces, Universal Online Judge (UOJ), and BestC
 
 * Codeforces Round #278 ([Div. 1](http://codeforces.com/contest/487), [Div. 2](http://codeforces.com/contest/488)): statements: [Div. 2 A](http://codeforces.com/contest/488/problem/A), [Div. 2 B](http://codeforces.com/contest/488/problem/B), [Div. 1 A](http://codeforces.com/contest/487/problem/A), [Div. 1 D](http://codeforces.com/contest/487/problem/D)
 * UOJ Round #7: tasksauthor, [Chinese statements](http://uoj.ac/problem/83); Goodbye Jiawu: "new year's board game", [Chinese statements](http://uoj.ac/problem/68); Goodbye Yiwei: the best greedy problem of mine, "new year's bomb", [Chinese statements](http://uoj.ac/problem/177)
-* BestCoder Round #19: [statements](http://bestcoder.hdu.edu.cn/contests/contest_show.php?cid=551)
 
 ## Others
 

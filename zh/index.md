@@ -64,7 +64,6 @@ title: 于纪平
 |Codeforces Round #278|Div. 2 B|[英文题目](http://codeforces.com/contest/488/problem/B)|
 |Codeforces Round #278|Div. 1 A|[英文题目](http://codeforces.com/contest/487/problem/A)|
 |Codeforces Round #278|Div. 1 D|[英文题目](http://codeforces.com/contest/487/problem/D)|
-|BestCoder Round #19|全部4道题目|[英文题目](http://bestcoder.hdu.edu.cn/contests/contest_show.php?cid=551)|
 
 ## 其他
 
