@@ -56,7 +56,7 @@ title: 于纪平
 |CTT 2016|魔法小程序|[题目](http://uoj.ac/problem/267)|
 |NOI 2017|蚯蚓排队|[题目](http://uoj.ac/problem/315)|
 |CCPC 2016 合肥|最大公约数|[题目](http://acm.hdu.edu.cn/showproblem.php?pid=5970)|
-|2017六省省选|摧毁“树状图”|[题目](https://loj.ac/problem/2144)|
+|2017六省省选|摧毁“树状图”（***这道题是给我女友出的哦～***）|[题目](https://loj.ac/problem/2144)|
 |UOJ Round #7|水题出题人|[题目](http://uoj.ac/problem/83)|
 |UOJ Goodbye Jiawu|新年的桌游|[题目](http://uoj.ac/problem/68)|
 |UOJ Goodbye Yiwei|新年的腮雷（我最好的一道题！）|[题目](http://uoj.ac/problem/177)|
