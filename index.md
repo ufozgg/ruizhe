@@ -12,9 +12,9 @@ Undergraduate, Department of Computer Science and Technology, Tsinghua Universit
 
 清华大学计算机系，本科生
 
-Resume [in English](yjp_en.html)
+Resume [in English](en)
 
-[中文](yjp_zh.html)简历
+[中文](zh)简历
 
 # Strange things
 

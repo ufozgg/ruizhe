@@ -5,11 +5,13 @@ title: Jiping Yu
 
 # Jiping Yu (于纪平)
 
-[中文版本](yjp_zh.html)
+[Chinese version (中文版本)](/zh)
 
 Undergraduate, Department of Computer Science and Technology, Tsinghua University, China
 
 [yujp15@mails.tsinghua.edu.cn](mailto:yujp15@mails.tsinghua.edu.cn)
+
+***Chinese version has been updated but not yet translated here. Will be updated soon.***
 
 ## Education
 
