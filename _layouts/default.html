@@ -24,6 +24,7 @@
     <link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }} RSS" href="/feed.xml" />
 	<link rel="stylesheet" href="/css/bootstrap.min.css">
+	<script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 	<script src="/css/jquery.min.js"></script>
     <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/css/main.css">
     {% if site.favicon %}
@@ -84,6 +85,11 @@
                 {{ content }}
 				<hr>
 				<font color="#cccccc">This site uses <a href="https://github.com/bk2dcradle/researcher">Jekyll theme: Researcher</a>, under GNU GPL v3.</font>
+				<br>
+				Count:
+				<span id="busuanzi_container_page_pv"><span id="busuanzi_value_page_pv"></span></span>
+				/
+				<span id="busuanzi_container_site_pv"><span id="busuanzi_value_site_pv"></span></span>
             </div>
         {% endif %}
     </div>
