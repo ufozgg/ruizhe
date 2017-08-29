@@ -16,6 +16,18 @@ title: 于纪平
 * **2015 -**，清华大学计算机科学与技术系，本科生；GPA：3.47/4，[详细](courses.html)
 * **2012 - 2015**，大连市第二十四中学
 
+## 获奖
+
+|年份|奖项|链接|
+|-|-|-|
+|2017|CCF优秀大学生奖（拟）|[公示名单](http://www.ccf.org.cn/c/2017-07-31/602612.shtml)|
+|2016|清华之友——郑格如奖学金||
+|2014|第31届全国青少年信息学奥林匹克竞赛（NOI2014），一等奖（金牌）|[获奖名单](http://download.noi.cn/T/2014/NOI2014huojiangzhengshi.htm)|
+|2013|第30届全国青少年信息学奥林匹克竞赛（NOI2013），一等奖（金牌）|[获奖名单](http://history.ccf.org.cn/resources/1190201776262/noi/CCFNOI2013huojiangmingdan2013-07-25-05_01_17.htm)|
+|2017|CodeM编程大赛，季军|[网站](http://codem.meituan.com/)|
+|2016|第9次CCF软件能力认证（CSP认证），满分通过|[成绩单](http://cspro.org/lead/dformsys/application/ccf/pdf/201608107644.pdf)|
+|2017|MegCup极客挑战赛，第10名|[网站](https://2017.megcup.com/)|
+
 ## 项目
 
 **值得一提的**
@@ -29,18 +41,6 @@ title: 于纪平
 * 桌面日历，用Qt C++实现，允许拖拽文件：[代码](https://github.com/saffahyjp/display/tree/master/calendar)
 * C/S结构的在线五子棋游戏，用Qt C++实现：[代码](https://github.com/saffahyjp/display/tree/master/gobang_net)
 * 清华新闻检索引擎，用Python（Django）实现：[代码](https://github.com/saffahyjp/display/tree/master/news_search)
-
-## 获奖
-
-|年份|奖项|链接|
-|-|-|-|
-|2017|CCF优秀大学生奖（拟）|[公示名单](http://www.ccf.org.cn/c/2017-07-31/602612.shtml)|
-|2016|清华之友——郑格如奖学金||
-|2014|第31届全国青少年信息学奥林匹克竞赛（NOI2014），一等奖（金牌）|[获奖名单](http://download.noi.cn/T/2014/NOI2014huojiangzhengshi.htm)|
-|2013|第30届全国青少年信息学奥林匹克竞赛（NOI2013），一等奖（金牌）|[获奖名单](http://history.ccf.org.cn/resources/1190201776262/noi/CCFNOI2013huojiangmingdan2013-07-25-05_01_17.htm)|
-|2017|CodeM编程大赛，季军|[网站](http://codem.meituan.com/)|
-|2016|第9次CCF软件能力认证（CSP认证），满分通过|[成绩单](http://cspro.org/lead/dformsys/application/ccf/pdf/201608107644.pdf)|
-|2017|MegCup极客挑战赛，第10名|[网站](https://2017.megcup.com/)|
 
 ## 命题
 
