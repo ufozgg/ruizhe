@@ -13,7 +13,7 @@ title: 于纪平
 
 ## 教育
  
-* **2015 -**，清华大学计算机科学与技术系，本科生；GPA：3.47/4，[详细](courses.html)
+* **2015 -**，清华大学计算机科学与技术系，本科生；GPA：3.49/4，[详细](courses.html)
 * **2012 - 2015**，大连市第二十四中学
 
 ## 获奖
@@ -72,5 +72,12 @@ title: 于纪平
 * 了解Python、Java、MATLAB、LaTeX
 * 钢琴：业余十级（中央音乐学院）
 * 英语六级：508；四级：593
+* GRE (General Test)：
 
-*上次更新于2017年8月29日*
+||Verbal Reasoning|Quantitative Reasoning|Analytical Writing|
+|-|-|-|-|
+|(Scaled) Score|158|170|3.5|
+|Percentile|80|97|42|
+
+
+*上次更新于2017年9月21日*
