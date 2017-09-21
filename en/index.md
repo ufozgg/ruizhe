@@ -11,12 +11,22 @@ Undergraduate, Department of Computer Science and Technology, Tsinghua Universit
 
 [yujp15@mails.tsinghua.edu.cn](mailto:yujp15@mails.tsinghua.edu.cn)
 
-***Chinese version has been updated but not yet translated here. Will be updated soon.***
-
 ## Education
-
-* **2015 -**, Undergraduate, Department of Computer Science and Technology, Tsinghua University, China
+ 
+* **2015 -**, Undergraduate, Department of Computer Science and Technology, Tsinghua University, China; GPA: 3.49/4, [details](courses.html)
 * **2012 - 2015**, Dalian No.24 High School
+
+## Awards
+
+|Year|Event|Link|
+|-|-|-|
+|2017|CCF Excellent College Student Award (proposed)|[Winners](http://www.ccf.org.cn/c/2017-07-31/602612.shtml)|
+|2016|Friend of Tsinghua, Ge-ru Zheng Scholarship||
+|2014|First prize (gold medal) of 31st National Olympiad in Informatics (NOI2014)|[Winners](http://download.noi.cn/T/2014/NOI2014huojiangzhengshi.htm)|
+|2013|First prize (gold medal) of 30th NOI (NOI2013)|[Winners](http://history.ccf.org.cn/resources/1190201776262/noi/CCFNOI2013huojiangmingdan2013-07-25-05_01_17.htm)|
+|2017|3rd place, CodeM Programming Contest|[Website](http://codem.meituan.com/)|
+|2016|9th CCF Computer Software Certification -- pass with full marks|[Transcript](http://cspro.org/lead/dformsys/application/ccf/pdf/201608107644.pdf)|
+|2017|10th place, MegCup Geek Challenge Contest|[Website](https://2017.megcup.com/)|
 
 ## Projects
 
@@ -32,42 +42,29 @@ Undergraduate, Department of Computer Science and Technology, Tsinghua Universit
 * C/S Gobang game online, in Qt C++: [Code](https://github.com/saffahyjp/display/tree/master/gobang_net)
 * News searcher for Tsinghua, in Python with Django: [Code](https://github.com/saffahyjp/display/tree/master/news_search)
 
-## Awards
-
-* **2016**, "Friend of Tsinghua, Ge-ru Zheng Scholarship"
-* **2014**, First prize (gold medal) of 31-st National Olympiad in Informatics (NOI2014)
-* **2013**, First prize (gold medal) of 30-th NOI (NOI2013)
-* **2016**, 9th CCF Computer Software Certification -- pass with full marks
-
-**Other programming contests**
-
-* **2017**, 3rd place, CodeM programming contest, [Chinese website](http://codem.meituan.com/)
-* **2017**, 10th place, MegCup 2017, [Chinese website](https://2017.megcup.com/)
-
 ## Problem-setting
 
 I have participated in problem-setting in National Olympiad in Informatics (NOI) official contests, including NOI, NOIP (NOI in Provinces), China Team Training (CTT).
 
 I also prepared contests for Codeforces, Universal Online Judge (UOJ), and BestCoder.
 
-**NOI official contests**
-
-* CTT 2015: "static cactus", [Chinese statements](http://uoj.ac/problem/158)
-* NOI 2016
-* NOIP 2016 Junior: magic, [Chinese statements](https://www.luogu.org/problem/show?pid=2119)
-* NOIP 2016 Senior: earthworm, [Chinese statements](http://uoj.ac/problem/264)
-* CTT 2016: "magic program", [Chinese statements](http://uoj.ac/problem/267)
-* NOI 2017: queue, [Chinese statements](http://uoj.ac/problem/315)
-
-**Other contests**
-
-* CCPC 2016 Hefei: "great common divisor", [Chinese statements](http://acm.hdu.edu.cn/showproblem.php?pid=5970)
-* HE/HL/JL/LN/SH/SXOI 2017: treediagram, [Chinese statements](https://loj.ac/problem/2144)
-
-**Popular contest platforms**
-
-* Codeforces Round #278 ([Div. 1](http://codeforces.com/contest/487), [Div. 2](http://codeforces.com/contest/488)): statements: [Div. 2 A](http://codeforces.com/contest/488/problem/A), [Div. 2 B](http://codeforces.com/contest/488/problem/B), [Div. 1 A](http://codeforces.com/contest/487/problem/A), [Div. 1 D](http://codeforces.com/contest/487/problem/D)
-* UOJ Round #7: tasksauthor, [Chinese statements](http://uoj.ac/problem/83); Goodbye Jiawu: "new year's board game", [Chinese statements](http://uoj.ac/problem/68); Goodbye Yiwei: the best greedy problem of mine, "new year's bomb", [Chinese statements](http://uoj.ac/problem/177)
+|Contest|Task|Link|
+|-|-|-|
+|CTT 2015|Static Cactus|[Chinese statement](http://uoj.ac/problem/158)|
+|NOI 2016|||
+|NOIP 2016 Junior|Magic Array|[Chinese statement](https://www.luogu.org/problem/show?pid=2119)|
+|NOIP 2016 Senior|Earthworm|[Chinese statement](http://uoj.ac/problem/264)|
+|CTT 2016|Magic Program|[Chinese statement](http://uoj.ac/problem/267)|
+|NOI 2017|Earthworm Queue|[Chinese statement](http://uoj.ac/problem/315)|
+|CCPC 2016 Hefei|Greatest Common Divisor|[Chinese statement](http://acm.hdu.edu.cn/showproblem.php?pid=5970)|
+|PSC 2017|Destroy "Treediagram"（***for my girlfriend~***）|[Chinese statement](https://loj.ac/problem/2144)|
+|UOJ Round #7|Simple-task Author|[Chinese statement](http://uoj.ac/problem/83)|
+|UOJ Goodbye Jiawu|New Year's Boardgame|[Chinese Statement](http://uoj.ac/problem/68)|
+|UOJ Goodbye Yiwei|New Year's Bomb|[Chinese statement](http://uoj.ac/problem/177)|
+|Codeforces Round #278|Div. 2 A|[Statement](http://codeforces.com/contest/488/problem/A)|
+|Codeforces Round #278|Div. 2 B|[Statement](http://codeforces.com/contest/488/problem/B)|
+|Codeforces Round #278|Div. 1 A|[Statement](http://codeforces.com/contest/487/problem/A)|
+|Codeforces Round #278|Div. 1 D|[Statement](http://codeforces.com/contest/487/problem/D)|
 
 ## Others
 
@@ -75,5 +72,12 @@ I also prepared contests for Codeforces, Universal Online Judge (UOJ), and BestC
 * Know Python, Java, MATLAB, LaTeX
 * Piano: amateur level 10 (Central Conservatory of Music)
 * CET-6: 508; CET-4: 593
+* GRE (General Test)：
 
-*Last updated on August 6, 2017*
+||Verbal Reasoning|Quantitative Reasoning|Analytical Writing|
+|-|-|-|-|
+|(Scaled) Score|158|170|3.5|
+|Percentile|80|97|42|
+
+
+*Last updated on September 21, 2017*
