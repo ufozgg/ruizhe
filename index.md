@@ -1,8 +1,8 @@
 ---
 layout: default
-title: jinwanchishen.me
+title: jiping.site
 ---
-# jinwanchishen.me
+# jiping.site
 
 This is not a website for food!
 
