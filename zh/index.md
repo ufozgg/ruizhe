@@ -20,10 +20,11 @@ title: 于纪平
 
 |年份|奖项|链接|
 |-|-|-|
-|2017|CCF优秀大学生奖（拟）|[公示名单](http://www.ccf.org.cn/c/2017-07-31/602612.shtml)|
+|2017|CCF优秀大学生奖|[公示名单](http://www.ccf.org.cn/c/2017-07-31/602612.shtml)|
 |2016|清华之友——郑格如奖学金||
 |2014|第31届全国青少年信息学奥林匹克竞赛（NOI2014），一等奖（金牌）|[获奖名单](http://download.noi.cn/T/2014/NOI2014huojiangzhengshi.htm)|
 |2013|第30届全国青少年信息学奥林匹克竞赛（NOI2013），一等奖（金牌）|[获奖名单](http://history.ccf.org.cn/resources/1190201776262/noi/CCFNOI2013huojiangmingdan2013-07-25-05_01_17.htm)|
+|2017|CCF大学生计算机系统与程序设计竞赛（CCSP），金奖（第4名）||
 |2017|CodeM编程大赛，季军|[网站](http://codem.meituan.com/)|
 |2016|第9次CCF软件能力认证（CSP认证），满分通过|[成绩单](http://cspro.org/lead/dformsys/application/ccf/pdf/201608107644.pdf)|
 |2017|MegCup极客挑战赛，第10名|[网站](https://2017.megcup.com/)|
@@ -80,4 +81,4 @@ title: 于纪平
 |Percentile|80|97|42|
 
 
-*上次更新于2017年9月21日*
+*上次更新于2017年10月29日*

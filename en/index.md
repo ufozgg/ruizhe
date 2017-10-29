@@ -20,10 +20,11 @@ Undergraduate, Department of Computer Science and Technology, Tsinghua Universit
 
 |Year|Event|Link|
 |-|-|-|
-|2017|CCF Excellent College Student Award (proposed)|[Winners](http://www.ccf.org.cn/c/2017-07-31/602612.shtml)|
+|2017|CCF Excellent College Student Award|[Winners](http://www.ccf.org.cn/c/2017-07-31/602612.shtml)|
 |2016|Friend of Tsinghua, Ge-ru Zheng Scholarship||
 |2014|First prize (gold medal) of 31st National Olympiad in Informatics (NOI2014)|[Winners](http://download.noi.cn/T/2014/NOI2014huojiangzhengshi.htm)|
 |2013|First prize (gold medal) of 30th NOI (NOI2013)|[Winners](http://history.ccf.org.cn/resources/1190201776262/noi/CCFNOI2013huojiangmingdan2013-07-25-05_01_17.htm)|
+|2017|4th place, CCF CCSP(Collegiate Computer Systems & Programming Contest)||
 |2017|3rd place, CodeM Programming Contest|[Website](http://codem.meituan.com/)|
 |2016|9th CCF Computer Software Certification -- pass with full marks|[Transcript](http://cspro.org/lead/dformsys/application/ccf/pdf/201608107644.pdf)|
 |2017|10th place, MegCup Geek Challenge Contest|[Website](https://2017.megcup.com/)|
@@ -80,4 +81,4 @@ I also prepared contests for Codeforces, Universal Online Judge (UOJ), and BestC
 |Percentile|80|97|42|
 
 
-*Last updated on September 21, 2017*
+*Last updated on October 29, 2017*
