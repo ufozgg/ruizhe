@@ -21,6 +21,7 @@ Undergraduate, Department of Computer Science and Technology, Tsinghua Universit
 |Year|Event|Link|
 |-|-|-|
 |2017|CCF Elite Collegiate Award|[Winners](http://www.ccf.org.cn/c/2017-07-31/602612.shtml)|
+|2017|Gold prize (4th place), 2017 ACM-ICPC Asia East Continent League Final||
 |2016|Friend of Tsinghua, Ge-ru Zheng Scholarship||
 |2014|First prize (gold medal) of 31st National Olympiad in Informatics (NOI2014)|[Winners](http://download.noi.cn/T/2014/NOI2014huojiangzhengshi.htm)|
 |2013|First prize (gold medal) of 30th NOI (NOI2013)|[Winners](http://history.ccf.org.cn/resources/1190201776262/noi/CCFNOI2013huojiangmingdan2013-07-25-05_01_17.htm)|

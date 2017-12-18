@@ -21,6 +21,7 @@ title: 于纪平
 |年份|奖项|链接|
 |-|-|-|
 |2017|CCF优秀大学生奖|[公示名单](http://www.ccf.org.cn/c/2017-07-31/602612.shtml)|
+|2017|2017 ACM-ICPC Asia East Continent League Final，金奖（第4名）||
 |2016|清华之友——郑格如奖学金||
 |2014|第31届全国青少年信息学奥林匹克竞赛（NOI2014），一等奖（金牌）|[获奖名单](http://download.noi.cn/T/2014/NOI2014huojiangzhengshi.htm)|
 |2013|第30届全国青少年信息学奥林匹克竞赛（NOI2013），一等奖（金牌）|[获奖名单](http://history.ccf.org.cn/resources/1190201776262/noi/CCFNOI2013huojiangmingdan2013-07-25-05_01_17.htm)|
