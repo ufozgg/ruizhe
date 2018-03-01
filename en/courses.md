@@ -7,7 +7,7 @@ title: Detailed Scores
 
 [Back](.)
 
-GPA: 3.52/4（25%）
+GPA: 3.52/4 (25%)
 
 I have complete 142 credits of courses (out of 170 required for graduation). These are completed courses about computer science:
 
