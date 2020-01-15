@@ -1,8 +1,8 @@
 ---
 layout: default
-title: jiping.site
+title: ruizhe.site
 ---
-# jiping.site
+# ruizhe.site
 
 This is not a website for food!
 
